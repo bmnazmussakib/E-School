@@ -1,0 +1,129 @@
+.container{
+    margin-bottom: 100px;
+}
+.top{
+    height: 576px;
+    background-color:#F0FFF0;
+    margin-bottom: 100px;
+}
+.logo{
+    width: 50%;
+    margin-top: 12px;
+}
+
+.bg-light {
+    background-color: transparent !important;
+}
+
+
+.navbar li{
+    padding: 0px 20px;
+    background-color: transparent;
+}
+#btn{
+    border-radius: 50px;
+    padding: 10px 40px;
+}
+
+.icon{
+    text-align: center;
+    background-color: #f0fff0;
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    margin: 0px 20px;
+    border-radius: 10px;
+}
+
+.icon:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+
+}
+
+.icon img{
+    width: 50%;
+    padding-bottom: 30px;
+}
+
+.card{
+    text-align: center;
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+
+}
+.card-color{
+    background-color:#F0FFF0;
+}
+
+.onile-class .card img{
+    width: 100%;
+    
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+    text-align: left;
+    
+    
+}
+
+.card-footer img{
+    width: 30%;
+    
+}
+
+.card-footer .row{
+    
+}
+
+.online-class h1{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.card img{
+    padding: 10px;
+}
+.card{
+    text-align: left;
+}
+.testimonial h1{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.testimonial p{
+   padding: 0px 0px;
+   line-height: 40px;
+}
+.testimonial img{
+    width: 100%;
+    padding: 100px 100px;
+}
+
+.bottom{
+    background-color: #282531;
+    height: 369px;
+    color: white;
+    
+}
+
+.bottom li{
+    list-style-type: none;
+    line-height: 30px;
+}
+
+.bottom .row{
+    padding-top: 80px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: #282531;
+    padding-bottom: 20px;
+
+}
