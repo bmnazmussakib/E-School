@@ -107,12 +107,13 @@
     background-color: #282531;
     height: 369px;
     color: white;
+    line-height: 30px;
     
 }
 
 .bottom li{
     list-style-type: none;
-    line-height: 30px;
+    
 }
 
 .bottom .row{
